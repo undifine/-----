@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/about/about",
+    "pages/science/science",
+    "pages/hero/hero",
+    "pages/photos/photos"
+  ],
+  "window": {
+    "backgroundColor": "#3CB371",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3CB371",
+    "navigationBarTitleText": "野生动物保护",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

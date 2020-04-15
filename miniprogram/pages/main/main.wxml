@@ -1,0 +1,42 @@
+<!--miniprogram/pages/main.wxml-->
+<view>
+  <view class="navigation">
+      <view class="navi_button">
+        <button bindtap="gomain">首页</button>
+        <button bindtap="goabout">关于</button>
+      </view>
+  </view>
+  <view class="animalshow">
+    <text>标题</text>
+  </view>
+  <view class="break">
+  </view>
+  <view class="pro1" bindtap="goscience">
+    <text>这里，你会对他们有所了解</text>
+  </view>
+  <view class="break">
+  </view>
+  <view class="pro2" bindtap="gophotos">
+    <text>美丽，由自然而生</text>
+  </view>
+  <view class="break">
+  </view>
+  <view class="pro3" bindtap="gohero">
+    <text>他们，是可歌可泣的英雄</text>
+  </view>
+  <view class="break">
+  </view>
+  <view class="pro4">
+    <text>我们，可以做到更多</text>
+  </view>
+  <view class="break">
+  </view>
+  <view class="pro5">
+    <text>保护，从现在开始</text>
+  </view>
+  <view class="break">
+  </view>
+  <view class="end">
+    <text>结尾</text>
+  </view>
+</view>
